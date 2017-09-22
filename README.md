@@ -184,7 +184,7 @@
 
 ### 17/09/21
 
-18일차: [Today I Learned]()
+18일차: [Today I Learned](https://github.com/huskyhoochu/diary/blob/master/17:09:21.md)
 <br>
 요약: 네이버 웹툰 크롤러. requests 모듈 사용법.
 <br>
