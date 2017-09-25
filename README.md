@@ -215,7 +215,7 @@
 
 ### 17/09/25
 
-22일차:
+22일차: [장고 시작하기](https://github.com/huskyhoochu/diary/blob/master/17:09:25.md)
 <br>
 요약: 장고 시작.
 <br>
