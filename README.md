@@ -215,8 +215,16 @@
 
 ### 17/09/25
 
-22일차: [장고 시작하기](https://github.com/huskyhoochu/diary/blob/master/17:09:25.md)
+22일차: [장고 시작하기(1)](https://github.com/huskyhoochu/diary/blob/master/17:09:25.md)
 <br>
 요약: 장고 시작.
 <br>
 장고 프로젝트 초기 환경설정, 어플리케이션 만들기, 관리자 계정 만들기, model-template-view 개념 이해하고 구현하기
+
+### 17/09/26
+
+23일차: [장고 시작하기(2)]()
+<br>
+요약: 장고걸스를 얼추 마치고 본격적인 블로그 제작.
+<br>
+pycharm 장고 구문 지원 기능 켜기, html 확장, 정규표현식을 이용한 url 생성, 블로그 내에서 직접 글을 쓰고 저장하는 기능 구현
