@@ -231,11 +231,12 @@ pycharm 장고 구문 지원 기능 켜기, html 확장, 정규표현식을 이�
 
 ### 17/09/28
 
-25일차: [장고 시작하기(3)]()
+25일차: [장고 시작하기(3)](https://github.com/huskyhoochu/diary/blob/master/17:09:28.md)
 <br>
 요약:
 
 ### 17/10/05
 
-32일차: [Today I Learned]()
+32일차: [Today I Learned](https://github.com/huskyhoochu/diary/blob/master/17:10:05.md)
+<br>
 요약: 장고 쿼리셋 객체 슬라이드, 메인 헤더 스티키 기능, 메인 헤더 스크롤 시 쉐도우 기능 추가, 모바일 적용 시 햄버거 메뉴 활성화
